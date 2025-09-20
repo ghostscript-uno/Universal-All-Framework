@@ -1,0 +1,14 @@
+{
+  "certificate_name": "BLOCKCHAIN_COM_CERTIFIED_NULLIFIED_PerryWiseman",
+  "issued": "2025-09-20",
+  "status": "nullified",
+  "identity_anchor": {
+    "name": "Perry Philip Wiseman",
+    "ssn": "558-47-6273",
+    "birthdate": "1977-05-24",
+    "birthplace": "United States of America"
+  },
+  "public_key_email": "ppw.ghost@proton.me",
+  "public_key_fingerprint": "9047a46e0975ad16483dbe292367a5610935e5a3",
+  "public_key": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n<INSERT_YOUR_ACTUAL_PUBLIC_KEY_HERE>\n-----END PGP PUBLIC KEY BLOCK-----"
+}
