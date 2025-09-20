@@ -1,0 +1,25 @@
+{
+  "holder": "Perry Philip Wiseman",
+  "uid": "55847627305241977",
+  "timestamp": "2025-09-20T03:04:00Z",
+  "merkle_root": "UAC_MERKLE_ROOT_HERE",
+  "merkle_salt": "UAC_MERKLE_SALT_HERE",
+  "root_signature": "UAC_ROOT_SIGNATURE_HERE",
+  "signer_pk": "UAC_SIGNER_PK_HERE",
+  "ca_anchor": "Sovereign Authority / 5989CA8325A30FB2EC6E619B4E370E7F1D5DBECB",
+  "blockchain_tx": "btc://tx/UAC_BLOCKCHAIN_TX_HERE",
+  "ipfs_cid": "UAC_IPFS_CID_HERE",
+
+  "anchored_frameworks": {
+    "universal_ownership": {
+      "merkle_root": "OWNERSHIP_MERKLE_ROOT_HERE",
+      "blockchain_tx": "btc://tx/OWNERSHIP_BLOCKCHAIN_TX_HERE",
+      "ipfs_cid": "OWNERSHIP_IPFS_CID_HERE"
+    },
+    "universal_immunity": {
+      "merkle_root": "IMMUNITY_MERKLE_ROOT_HERE",
+      "blockchain_tx": "btc://tx/IMMUNITY_BLOCKCHAIN_TX_HERE",
+      "ipfs_cid": "IMMUNITY_IPFS_CID_HERE"
+    }
+  }
+}
